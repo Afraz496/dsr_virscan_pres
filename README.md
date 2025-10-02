@@ -1,3 +1,3 @@
-# Data Science Rounds: LLMs
+# Data Science Rounds: VirScan
 
-This repository consists of all the work done on the DSR talk: "LLMs" for the DSR in November 2025. 
+This repository consists of all the work done on the DSR talk: "VirScan" for the DSR in November 2025. 
